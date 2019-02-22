@@ -7,6 +7,7 @@ INDEX
 4. [Moving from GitHub to Bitbucket](4-from-github-to-bitbucket/from-github-to-bitbucket.md)
 5. [Sealed (Class) with love](5-sealed-class/sealed-class.md)
 6. [Greek Mythology in Object-Oriented Programming](6-greek-oop/greek-oop.md)
+7. [A walk on the dark side](7-dark-side/dark-side.md)
 
 *****
 
