@@ -5,6 +5,7 @@ INDEX
 2. [Presenters and Views meet The Interface Segregation Principle](2-presenters-views-interfaces/presenters-views-interfaces.md)
 3. [To Queue or not to Queue?](3-queue/queue.md)
 4. [Moving from GitHub to Bitbucket](4-from-github-to-bitbucket/from-github-to-bitbucket.md)
+5. [Sealed (Class) with love](5-sealed-class/sealed-class.md)
 
 *****
 
