@@ -44,8 +44,6 @@ Of course, **we can**. In fact, **we** **MUST** do it 😉
 
 The concept of the **Sealed Classes** is very simple but it’s the basis of a lot of new ideas and workflows. Please, feel free to let me know how you use them and why by leaving a comment below or tweet me over on [@hector6872](https://twitter.com/hector6872).
 
-This article was originally published on [Medium](https://medium.com/@hector6872/sealed-class-with-love-e554063aa9c6)
-
 *****
 
 [1] Yep, I’ve written a little about this [before](https://medium.com/@hector6872/presenters-and-views-meet-the-interface-segregation-principle-1cd6c98f46bb) (look for *“BONUS: Kotlin developers”* part)<br> [2] Remember that a single-element `Enum` type is one of the best ways to implement a [Singleton](http://www.drdobbs.com/jvm/creating-and-destroying-java-objects-par/208403883?pgno=3)
