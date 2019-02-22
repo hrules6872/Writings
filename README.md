@@ -2,7 +2,8 @@ INDEX
 ---
 
 1. [How good are Git Hooks?](1-git-hooks/git-hooks.md)
-1. [Presenters and Views meet The Interface Segregation Principle](2-presenters-views-interfaces/presenters-views-interfaces.md)
+2. [Presenters and Views meet The Interface Segregation Principle](2-presenters-views-interfaces/presenters-views-interfaces.md)
+3. [To Queue or not to Queue?](3-queue/queue.md)
 
 *****
 
