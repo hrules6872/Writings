@@ -1,4 +1,4 @@
-INDEX
+Index
 ---
 
 1. [How good are Git Hooks?](1-git-hooks/git-hooks.md)
