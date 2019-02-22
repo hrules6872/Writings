@@ -8,6 +8,7 @@ INDEX
 5. [Sealed (Class) with love](5-sealed-class/sealed-class.md)
 6. [Greek Mythology in Object-Oriented Programming](6-greek-oop/greek-oop.md)
 7. [A walk on the dark side](7-dark-side/dark-side.md)
+8. [Internet of Things — from zero to DIY Bitcoin Ticker](8-arduino-bitcoin-diy/arduino-bitcoin-diy.md)
 
 *****
 
