@@ -40,8 +40,6 @@ It’s true that we haven’t gone into the details but I think the code fragmen
 
 We here at [Lolamarket](https://lolamarket.com/tienda) believe that our code looks way better using this so I encourage everyone to try it and leave a comment below or [tweet](https://twitter.com/hector6872) me with any questions/suggestions!
 
-This article was originally published on [Medium](https://medium.com/@hector6872/presenters-and-views-meet-the-interface-segregation-principle-1cd6c98f46bb)
-
 *****
 
 [1] [Model-View-Presenter](https://en.wikipedia.org/wiki/Modelâviewâpresenter) (btw it’s impressive to know this architectural pattern is over 20 years old `:wow:`)<br> [2] [SOLID](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) (the acronym is not used in its original paper so look for the reference to “the first five principles of *class design*” or even better go for a [easier explanation](http://lmgtfy.com/?q=solid+design+principles))<br> [3] [Don’t Repeat Yourself](https://en.wikipedia.org/wiki/Don't_repeat_yourself) <br> [4] [Keep It Short and Simple](https://en.wikipedia.org/wiki/KISS_principle) (politically correct variation)

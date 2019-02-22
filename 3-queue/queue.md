@@ -28,8 +28,6 @@ https://gist.github.com/hrules6872/b263becd04c0f144643a0c0c7c874358
 
 ### So, [don’t reinvent the wheel](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/source.gif)⁴.
 
-This article was originally published on [Medium](https://medium.com/@hector6872/to-queue-or-not-to-queue-695af6e18bdb)
-
 *****
 
 [1] Ok, there are some [weird](https://www.theatlantic.com/technology/archive/2011/10/how-long-people-waited-be-first-line-buy-apple-products/337087/) [exceptions](https://www.independent.co.uk/life-style/gadgets-and-tech/news/iphone-x-latest-updates-news-apple-fans-queuing-photos-world-get-new-phone-a8035321.html)`:facepalm:`<br> [2] There is always an alternative [https://www.youtube.com/watch?v=ZyNz8UHHrxE](https://www.youtube.com/watch?v=ZyNz8UHHrxE) (in Spanish)`:wink:`<br> [3] Some people know it as FCFS (*“First Come, First Served”*)<br> [4] And remember to give [LolaMarket](https://lolamarket.com/) a chance. Awesome service!
