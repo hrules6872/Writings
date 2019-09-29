@@ -23,7 +23,7 @@ There are many alternatives out there, but I’ve decided to migrate my private 
 
 * [Fill in the credentials](https://gist.github.com/hrules6872/af8655427e6ec7741a82516713d99ebf#file-fromgithubtobitbucket-py-L4)
 * [Setup what kind of repo do we want to import](https://gist.github.com/hrules6872/af8655427e6ec7741a82516713d99ebf#file-fromgithubtobitbucket-py-L15)
-* **Run the script **and follow the instructions
+* **Run the script** and follow the instructions
 * [Dance](https://giphy.com/explore/victory-dance)! 
 
 *****
