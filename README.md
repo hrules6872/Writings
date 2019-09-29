@@ -10,6 +10,7 @@ Index
 7. [A walk on the dark side](7-dark-side/dark-side.md)
 8. [Internet of Things — from zero to DIY Bitcoin Ticker](8-arduino-bitcoin-diy/arduino-bitcoin-diy.md)
 9. [Habits + Google Sheets = Profit!](9-habits-google-sheets/habits-google-sheets.md)
+10. [fun SideProject.create()](10-fun-side-project-create/fun-side-project-create.md)
 
 *****
 
