@@ -32,7 +32,7 @@ Kotlin offers [Sealed classes](https://kotlinlang.org/docs/reference/sealed-clas
 
 https://gist.github.com/hrules6872/af1561469b7f13f51e19c55584bdcc6c
 
-> Further information about these **Sealed Classes** is available [here](https://medium.com/@hector6872/sealed-class-with-love-e554063aa9c6) `:trophy:`
+> Further information about these **Sealed Classes** is available [here](/5-sealed-class/sealed-class.md) `:trophy:`
 
 #### Conclusion
 

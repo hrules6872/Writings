@@ -11,7 +11,7 @@ Sometimes you’re talking to a colleague or friend, you’re taking a shower, y
 
 Sometimes it’s something you need, other times it’s something you think might help others. Something you think it can bring value to you/them in some way. Something that someway can make your/their daily life easier. Something you/they sometimes lacked.
 
-Sometimes it’s not the best idea but [the perfect excuse to learn something new](https://medium.com/@hector6872/fun-sideproject-make-b23d2af28fe8).
+Sometimes it’s not the best idea but [the perfect excuse to learn something new](/10-fun-side-project-create/fun-side-project-create.md).
 
 ### Sometimes you just have to say no
 

@@ -15,13 +15,13 @@ Because I often make fun of the programming languages that my teammates use in t
 
 ## Idea
 
-I’m a real fan of automation ([even when we spend more time coding](https://xkcd.com/1205/) the thing than the time it actually saves us afterwards), so based on a function we all use at work almost every day known as “[automatic issue closing via commit messages](https://confluence.atlassian.com/bitbucket/resolve-issues-automatically-when-users-push-code-221451126.html)” (I guess all web-based Git repository managers have a fancy name for that) I started to code **a [Bitbucket](https://medium.com/@hector6872/moving-from-github-to-bitbucket-30c12dd8aea5) Webhook¹.**
+I’m a real fan of automation ([even when we spend more time coding](https://xkcd.com/1205/) the thing than the time it actually saves us afterwards), so based on a function we all use at work almost every day known as “[automatic issue closing via commit messages](https://confluence.atlassian.com/bitbucket/resolve-issues-automatically-when-users-push-code-221451126.html)” (I guess all web-based Git repository managers have a fancy name for that) I started to code **a [Bitbucket](/4-from-github-to-bitbucket/from-github-to-bitbucket.md) Webhook¹.**
 
 ## Webho… what?
 
 A **[WebHook](https://en.wikipedia.org/wiki/Webhook) is a `HTTP` callback**: a web application implementing a webhook will `POST` a message (payload) to an user-defined `URL` (web service) when something happens. It’s that simple.
 
-So, in my case, what I coded was a [Githook](https://medium.com/@hector6872/how-good-are-git-hooks-75ae4c3fe3f5) but [on the other side](https://www.reddit.com/r/ProgrammerHumor/comments/7zhco9/frontend_vs_backend/) (basically it connects Bitbucket+[Trello](https://developers.trello.com/)).
+So, in my case, what I coded was a [Githook](/1-git-hooks/git-hooks.md) but [on the other side](https://www.reddit.com/r/ProgrammerHumor/comments/7zhco9/frontend_vs_backend/) (basically it connects Bitbucket+[Trello](https://developers.trello.com/)).
 
 I don’t think it’s worth giving further details about my project itself but I can summarize everything in these points:
 
