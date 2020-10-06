@@ -11,6 +11,7 @@ Index
 8. [Internet of Things — from zero to DIY Bitcoin Ticker](8-arduino-bitcoin-diy/arduino-bitcoin-diy.md)
 9. [Habits + Google Sheets = Profit!](9-habits-google-sheets/habits-google-sheets.md)
 10. [fun SideProject.create()](10-fun-side-project-create/fun-side-project-create.md)
+11. [Time is Money](11-time-is-money/time-is-money.md)
 
 *****
 
