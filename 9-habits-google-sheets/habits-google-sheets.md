@@ -4,6 +4,14 @@
 
 ![](art/1.jpeg)
 
+---
+
+**Update: after more than two years using the solution below, I finally decided to create my own native Android app. Give it a try!**
+
+[**Traction App for Android**](https://play.google.com/store/apps/details?id=com.hector6872.habits)
+
+---
+
 ### What is a New Year Resolution?
 
 A **New Year’s resolution** is a [tradition](https://www.history.com/news/the-history-of-new-years-resolutions) in which we make a bunch of promises¹ -on the last days of the year or so- to ourselves to do something in order to improve our behaviour or lifestyle in a good way during the year ahead (i.e. quit smoking, eat less junk food, lose weight, do some form of exercise and/or stop saying JS is a real programming language²).
