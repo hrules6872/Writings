@@ -12,6 +12,7 @@ Index
 9. [Habits + Google Sheets = Profit!](9-habits-google-sheets/habits-google-sheets.md)
 10. [fun SideProject.create()](10-fun-side-project-create/fun-side-project-create.md)
 11. [Time is Money](11-time-is-money/time-is-money.md)
+12. [Why do you understand English but cannot speak fluently?](12-input-output/input-output.md)
 
 *****
 
