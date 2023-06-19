@@ -13,6 +13,7 @@ Index
 10. [fun SideProject.create()](10-fun-side-project-create/fun-side-project-create.md)
 11. [Time is Money](11-time-is-money/time-is-money.md)
 12. [Why do you understand English but cannot speak fluently?](12-input-output/input-output.md)
+13. [The truth about Intermittent Fasting for Weight Loss](13-intermittent-fasting/intermittent-fasting.md)
 
 *****
 
